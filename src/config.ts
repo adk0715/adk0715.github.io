@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: Dokyeong An",
+  name: "Dokyeong An",
   title: "Software Engineer",
   description: "Portfolio website of Ryan Fitzgerald",
   accentColor: "#1d4ed8",
