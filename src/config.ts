@@ -16,21 +16,21 @@ export const siteConfig = {
       description:
         "Air-Pollution-Inquiry-Mashup",
       link: "https://github.com/adk0715/Air-Pollution-Inquiry-Mashup",
-      skills: ["Html", "JavaScript"],
+      skills: ["HTML", "JavaScript"],
     },
     {
       name: "seoul-culture-event",
       description:
         "seoul-culture-event",
       link: "https://github.com/adk0715/seoul-culture-event",
-      skills: ["Html", "JavaScript"],
+      skills: ["HTML", "JavaScript"],
     },
     {
       name: "Seoul-Library-Search-Mashup",
       description:
         "Seoul-Library-Search-Mashup",
       link: "https://github.com/adk0715/Seoul-Library-Search-Mashup",
-      skills: ["Html", "JavaScrip"],
+      skills: ["HTML", "JavaScript"],
     },
   ],
 
