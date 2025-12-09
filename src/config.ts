@@ -38,7 +38,7 @@ export const siteConfig = {
     {
       school: "HANKYONG NATIONAL UNIVERSITY",
       achievements: [
-        "'-'",
+        "Department of Computer Applied Mathematic",
       ],
     },
   ],
